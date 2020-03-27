@@ -1,6 +1,6 @@
 # About
 
-I am Alexander Ek, Computer Science PhD Student.
+I am Alexander Ek, Computer Science PhD Student...
 
 ## Welcome to GitHub Pages
 
