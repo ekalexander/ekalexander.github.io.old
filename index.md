@@ -1,3 +1,5 @@
+---------------------
+
 # About
 
 I study online/dynamic combinatorial optimization from both a modelling and solving point of view.
@@ -7,6 +9,8 @@ I am a second year Computer Science PhD Student at Monash University, Australia.
 - **Monash University**, Faculty of Information Technology, Department of Artificial Intelligence and Data Science, Optimisation Group. (Melbourne, Australia)
 - **CSIRO's Data61**, Analytics and Decision Sciences. (Australia)
 - `alexander.ek (at) monash.edu`
+
+---------------------
 
 # Research
 
@@ -48,6 +52,8 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 * todo
 
+---------------------
+
 # Teaching
 
 ## Current
@@ -65,3 +71,6 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 * Software Testing. *Uppsala University, Sweden*. Teaching Associate. 2017 - 2018.
 
 * Program Design and Data Structures. *Uppsala University, Sweden*. Teaching Assistant. 2014 - 2015.
+
+---------------------
+
