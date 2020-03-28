@@ -9,6 +9,8 @@ I am a second year Computer Science PhD Student at Monash University, Australia.
 
 # Research
 
+- Google Scholar page.
+
 ## Interests
 
 Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimization, Constraint Programming, Scheduling, Vehicle Routing, Planning, Automation, Artificial Intelligence.
@@ -41,8 +43,24 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 **Explanation of Counterexamples in the Context of Formal Verification**.
 *B.Sc. Thesis. Uppsala University*. 2016.
 
+### Code
+
+* todo
+
 # Teaching
 
 ## Current
 
+* Modelling Discrete Optimisation Problems. *Monash University, Australia*. Administrative Teaching Associate. 2020.
+
 ## Past
+
+* Introduction to Computer Science. *Monash University, Australia*. Teaching Associate. 2019.
+
+* Operating Systems and Process-Oriented Programming. *Uppsala University, Sweden*. Teaching Associate. 2018.
+
+* Algorithms and Data Structures II. *Uppsala University, Sweden*. Teaching Associate. 2017 - 2018.
+
+* Software Testing. *Uppsala University, Sweden*. Teaching Associate. 2017 - 2018.
+
+* Program Design and Data Structures. *Uppsala University, Sweden*. Teaching Assistant. 2014 - 2015.
