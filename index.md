@@ -82,7 +82,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 # Education
 
-- B.Sc. + M.Sc. @ Uppsala University, Sweden, 2012-2018.
+- B.Sc. + M.Sc. in Computer Science @ Uppsala University, Sweden, 2012-2018.
 
 ---
 
