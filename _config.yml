@@ -3,3 +3,5 @@ name: Alexander Ek
 title: Alexander Ek
 description: Computer Scientist - Online Combinatorial Optimization
 github_username:  aekh
+plugins:
+  - jekyll-seo-tag
