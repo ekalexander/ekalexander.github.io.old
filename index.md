@@ -68,7 +68,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ## Current
 
-* Solving Discrete Optimisation Problems (FIT5216). *Monash University, Australia*. Head Teaching Associate. 2020.
+* Solving Discrete Optimisation Problems (FIT5220). *Monash University, Australia*. Head Teaching Associate. 2020.
 
 ## Past
 
