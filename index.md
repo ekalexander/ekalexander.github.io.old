@@ -68,20 +68,17 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ## Current
 
+* Solving Discrete Optimisation Problems (FIT5216). *Monash University, Australia*. Head Teaching Associate. 2020.
 
 ## Past
 
-### Monash University
+### Monash University (2019 onwards)
 
-* Modelling Discrete Optimisation Problems (FIT5216). *Monash University, Australia*. 
+* Modelling Discrete Optimisation Problems (FIT5216). *Monash University, Australia*. Head Teaching Associate. 2020.
 
-Head Teaching Associate. 2020.
+* Introduction to Computer Science (FIT1008, FIT1054, FIT2085). *Monash University, Australia*. Teaching Associate. 2019.
 
-* Introduction to Computer Science (FIT1008, FIT1054, FIT2085). *Monash University, Australia*. 
-
-Teaching Associate. 2019.
-
-### Uppsala University
+### Uppsala University (2014-2018)
 
 * Operating Systems and Process-Oriented Programming (1DT044, 1DT096). *Uppsala University, Sweden*. Teaching Associate. 2018.
 
