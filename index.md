@@ -86,7 +86,9 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 # Education
 
-- B.Sc. + M.Sc. in Computer Science @ Uppsala University, Sweden, 2012-2018.
+- PhD in Computer Science @ Monash University, Australia, 2018-2022 (ongoing).
+
+- BSc + MSc in Computer Science @ Uppsala University, Sweden, 2012-2018.
 
 ---
 
