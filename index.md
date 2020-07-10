@@ -30,6 +30,10 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 ## Conference Publications
 
 * Alexander Ek, Maria Garcia de la Banda, Andreas Schutt, Peter J. Stuckey, Guido Tack.
+**Aggregation and Garbage Collection for Online Optimization**.
+*Proceedings of the Twenty-sixth International Conference on Principles and Practice of Constraint Programming (CP’20)*, 2020.
+
+* Alexander Ek, Maria Garcia de la Banda, Andreas Schutt, Peter J. Stuckey, Guido Tack.
 **Modelling and Solving Online Optimisation Problems**.
 *Proceedings of the Thirty-fourth AAAI Conference on Artificial Intelligence (AAAI’20)*, 2020.
 
