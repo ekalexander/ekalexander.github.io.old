@@ -1,3 +1,5 @@
+\- [About Me](#About-Me) - [Research](#Research) - [Publications](#Publications) - [Teaching](#Teaching) - [Education](#Education) - [Contact](#Contact) -
+
 # About Me
 
 I study online/dynamic combinatorial optimization from both a modelling and solving point of view.
