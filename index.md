@@ -1,6 +1,6 @@
 \- [About Me](#about-me) - [Research](#research) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact) -
 
-# About Me
+# About Me [top](#top)
 
 I study online/dynamic combinatorial optimization from both a modelling and solving point of view.
 
@@ -11,7 +11,7 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 
 ---
 
-# Research
+# Research [top](#top)
 
 ## Current Research Projects
 
@@ -27,7 +27,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
-# Publications
+# Publications [top](#top)
 
 - [Google Scholar page](https://scholar.google.com/citations?user=qCgM_1wAAAAJ&hl).
 
@@ -68,7 +68,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
-# Teaching
+# Teaching [top](#top)
 
 ## Current
 
@@ -104,7 +104,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
-# Education
+# Education [top](#top)
 
 - PhD in Computer Science @ Monash University, Australia, 2018-2022 (ongoing).
 
@@ -112,7 +112,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
-# Contact
+# Contact [top](#top)
 
 Email     alexander.ek (at) monash.edu
 
