@@ -1,4 +1,4 @@
-\- [About Me](#About-Me) - [Research](#Research) - [Publications](#Publications) - [Teaching](#Teaching) - [Education](#Education) - [Contact](#Contact) -
+\- [About Me](#about-me) - [Research](#research) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact) -
 
 # About Me
 
@@ -72,25 +72,35 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ## Current
 
-* Solving Discrete Optimisation Problems (FIT5220). *Monash University, Australia*. Head Teaching Associate. 2020.
+#### Head Teaching Associate
+
+* Solving Discrete Optimisation Problems (FIT5220). *Monash University, Australia*. 2020.
 
 ## Past
 
 ### Monash University (2019 onwards)
 
-* Modelling Discrete Optimisation Problems (FIT5216). *Monash University, Australia*. Head Teaching Associate. 2020.
+#### Head Teaching Associate
 
-* Introduction to Computer Science (FIT1008, FIT1054, FIT2085). *Monash University, Australia*. Teaching Associate. 2019.
+* Modelling Discrete Optimisation Problems (FIT5216). *Monash University, Australia*. 2020.
+
+#### Teaching Associate
+
+* Introduction to Computer Science (FIT1008, FIT1054, FIT2085). *Monash University, Australia*. 2019.
 
 ### Uppsala University (2014-2018)
 
-* Operating Systems and Process-Oriented Programming (1DT044, 1DT096). *Uppsala University, Sweden*. Teaching Associate. 2018.
+#### Teaching Associate
 
-* Algorithms and Data Structures II (1DL231). *Uppsala University, Sweden*. Teaching Associate. 2017 - 2018.
+* Operating Systems and Process-Oriented Programming (1DT044, 1DT096). *Uppsala University, Sweden*. 2018.
 
-* Software Testing. *Uppsala University, Sweden*. Teaching Associate. 2017 - 2018.
+* Algorithms and Data Structures II (1DL231). *Uppsala University, Sweden*. 2017 - 2018.
 
-* Program Design and Data Structures. *Uppsala University, Sweden*. Teaching Assistant. 2014 - 2015.
+* Software Testing. *Uppsala University, Sweden*. 2017 - 2018.
+
+#### Teaching Assistant
+
+* Program Design and Data Structures. *Uppsala University, Sweden*. 2014 - 2015.
 
 ---
 
