@@ -1,7 +1,6 @@
-\- [About Me](#about-me) - [Research](#research) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact) -
+\- [About Me](#about-me) - [Research](#research) - [Research](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact) -
 
 # About Me
-[^](#top)
 
 I study online/dynamic combinatorial optimization from both a modelling and solving point of view.
 
@@ -10,10 +9,10 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 - Member of the *Optimisation Group* of Monash University, Australia.
 - Member of the *MiniZinc Team*.
 
+[top](#top)
 ---
 
 # Research
-[^](#top)
 
 ## Current Research Projects
 
@@ -27,10 +26,15 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 - Structural aalysis of constraint models to automatically infer improvements
 
+[top](#top)
+---
+
+# News
+
+[top](#top)
 ---
 
 # Publications
-[^](#top)
 
 - [Google Scholar page](https://scholar.google.com/citations?user=qCgM_1wAAAAJ&hl).
 
@@ -69,10 +73,10 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 - Online MiniZinc
 - [GitHub page](https://github.com/aekh)
 
+[top](#top)
 ---
 
 # Teaching
-[^](#top)
 
 ## Current
 
@@ -106,19 +110,19 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 * Program Design and Data Structures. *Uppsala University, Sweden*. 2014 - 2015.
 
+[top](#top)
 ---
 
 # Education
-[^](#top)
 
 - PhD in Computer Science @ Monash University, Australia, 2018-2022 (ongoing).
 
 - BSc + MSc in Computer Science @ Uppsala University, Sweden, 2012-2018.
 
+[top](#top)
 ---
 
 # Contact
-[^](#top)
 
 Email     alexander.ek (at) monash.edu
 
@@ -127,3 +131,4 @@ Visit     Floor 6, Building H, Caulfield Campus,
           Caulfield East, 3145 VIC
           Australia
 
+[top](#top)
