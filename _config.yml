@@ -2,12 +2,7 @@ theme: jekyll-theme-minimal
 name: Alexander Ek
 title: Alexander Ek
 logo: picture-a-ek-small.jpg
-description: Computer Scientist - Online Combinatorial Optimization
-
-test
-
-
-testing
+description: Computer Scientist - Online Combinatorial Optimization\nHello
 github_username:  aekh
 plugins:
   - jekyll-seo-tag
