@@ -1,10 +1,11 @@
-\- [About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact) -
+[About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
 
 # About Me
 
 I study online/dynamic combinatorial optimization from both a modelling and solving point of view.
 
 - PhD Candidate (2nd Year) at the *Department of Data Science & AI* of **Monash Univerisity**, Australia.
+  - My advisors are: **Maria Garcia de la Banda** (Monash University), **Andreas Schutt** (CSIRO Data61), **Peter J. Stuckey** (Monash University), and **Guido Tack** (Monash University).
 - PhD Scholarship Student at the *Analytics and Decision Sciences* Programme of **CSIRO's Data61**, Australia.
 - Member of the *Optimisation Group* of Monash University, Australia.
 - Member of the *MiniZinc Team*.
@@ -25,13 +26,21 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ## Former Research Projects
 
-- Structural aalysis of constraint models to automatically infer improvements
+- Structural anlysis of constraint models to automatically infer improvements
 
 [top](#top)
 
 ---
 
-# News
+# News 
+
+<2020 Aug> [1 virtual talk](https://youtu.be/xwYy736sEGo) at CP'20
+
+<2020 Jul> Paper "Aggregation and Garbage Collection for Online Optimization" accepted at CP'20
+
+<2020 Feb> Talk at AAAI'20
+
+[[Show All News]]
 
 [top](#top)
 
@@ -39,13 +48,15 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 # Publications
 
+Highlights shown here. [See all publications]
+
 - [Google Scholar page](https://scholar.google.com/citations?user=qCgM_1wAAAAJ&hl).
 
 ## Refereed Conference Publications
 
 * Alexander Ek, Maria Garcia de la Banda, Andreas Schutt, Peter J. Stuckey, Guido Tack.
 **Aggregation and Garbage Collection for Online Optimization**.
-*Proceedings of the Twenty-sixth International Conference on Principles and Practice of Constraint Programming (CP’20)*, 2020.
+*Proceedings of the Twenty-sixth International Conference on Principles and Practice of Constraint Programming (CP’20)*, 2020. [[PDF]] [[TALK](https://youtu.be/xwYy736sEGo)]
 
 * Alexander Ek, Maria Garcia de la Banda, Andreas Schutt, Peter J. Stuckey, Guido Tack.
 **Modelling and Solving Online Optimisation Problems**.
