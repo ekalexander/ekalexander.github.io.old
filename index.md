@@ -34,13 +34,17 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 # News 
 
-<2020 Aug> [1 virtual talk](https://youtu.be/xwYy736sEGo) at CP'20
+**<2020 Aug>** [Virtual talk](https://youtu.be/xwYy736sEGo) at [CP'20](https://cp2020.a4cp.org/)
 
-<2020 Jul> Paper "Aggregation and Garbage Collection for Online Optimization" accepted at CP'20
+**<2020 Jul>** Paper "Aggregation and Garbage Collection for Online Optimization" accepted at [CP'20](https://cp2020.a4cp.org/)
 
-<2020 Feb> Talk at AAAI'20
+**<2020 Feb>** Talk at [AAAI'20](https://aaai.org/Conferences/AAAI-20/)
 
-[[Show All News]]
+**<2019 Nov>** Completed PhD Confirmation Milestone
+
+**<2019 Nov>** Paper "Modelling and Solving Online Optimisation Problems" accepted at [AAAI'20](https://aaai.org/Conferences/AAAI-20/)
+
+**<2019 Sep>** Talks at [ModRef'19](https://modref.github.io/ModRef2019) and [CP'19](https://cp2019.a4cp.org/) doctoral program
 
 [top](#top)
 
