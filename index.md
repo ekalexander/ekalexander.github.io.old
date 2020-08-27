@@ -48,7 +48,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 # Publications
 
-Highlights shown here. [See all publications]
+- [Publication List](publications.html)
 
 - [Google Scholar page](https://scholar.google.com/citations?user=qCgM_1wAAAAJ&hl).
 
