@@ -34,4 +34,8 @@
 **Explanation of Counterexamples in the Context of Formal Verification**.
 *B.Sc. Thesis. Uppsala University*. 2016.
 
+# Code
+
+- Online MiniZinc
+
 [top](#top)
