@@ -2,7 +2,7 @@
 
 ---
 
-About Me - [News](#news) - [Research](#research) - [Education](#education) - [Teaching](#teaching) - [Supervision](#supervision-and-advising) - [Service](#service) - [Publications](#publications)
+About Me - [News](#news) - [Research](#research) - [Teaching](#teaching) - [Supervision](#supervision-and-advising) - [Service](#service) - [Publications](#publications)
 
 ---
 &nbsp;
@@ -18,6 +18,12 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 - PhD Scholarship Student at the *Analytics and Decision Sciences* Programme of **CSIRO's Data61**, Australia.
 - Member of the *Optimisation Group* of Monash University, Australia.
 - Member of the *MiniZinc Team*.
+
+## Education
+
+- **PhD** in Computer Science. At *Monash University*, Australia, **2018-2022 (ongoing)**.
+
+- **BSc** + **MSc** in Computer Science. At *Uppsala University*, Sweden, **2012-2018**.
 
 ## Contact
 
@@ -86,7 +92,7 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 
 ---
 
-[About Me](#about-me) - News - [Research](#research) - [Education](#education) - [Teaching](#teaching) - [Supervision](#supervision-and-advising) - [Service](#service) - [Publications](#publications)
+[About Me](#about-me) - News - [Research](#research) - [Teaching](#teaching) - [Supervision](#supervision-and-advising) - [Service](#service) - [Publications](#publications)
 
 ---
 &nbsp;
@@ -145,7 +151,7 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 
 ---
 
-[About Me](#about-me) - [News](#news) - Research - [Education](#education) - [Teaching](#teaching) - [Supervision](#supervision-and-advising) - [Service](#service) - [Publications](#publications)
+[About Me](#about-me) - [News](#news) - Research - [Teaching](#teaching) - [Supervision](#supervision-and-advising) - [Service](#service) - [Publications](#publications)
 
 ---
 &nbsp;
@@ -201,60 +207,11 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 &nbsp;
 
-# Education
-
----
-
-[About Me](#about-me) - [News](#news) - [Research](#research) - Education - [Teaching](#teaching) - [Supervision](#supervision-and-advising) - [Service](#service) - [Publications](#publications)
-
----
-&nbsp;
-
-- **PhD** in Computer Science. At *Monash University*, Australia, **2018-2022 (ongoing)**.
-
-- **BSc** + **MSc** in Computer Science. At *Uppsala University*, Sweden, **2012-2018**.
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 # Teaching
 
 ---
 
-[About Me](#about-me) - [News](#news) - [Research](#research) - [Education](#education) - Teaching - [Supervision](#supervision-and-advising) - [Service](#service) - [Publications](#publications)
+[About Me](#about-me) - [News](#news) - [Research](#research) - Teaching - [Supervision](#supervision-and-advising) - [Service](#service) - [Publications](#publications)
 
 ---
 &nbsp;
@@ -326,7 +283,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
-[About Me](#about-me) - [News](#news) - [Research](#research) - [Education](#education) - [Teaching](#teaching) - Supervision - [Service](#service) - [Publications](#publications)
+[About Me](#about-me) - [News](#news) - [Research](#research) - [Teaching](#teaching) - Supervision - [Service](#service) - [Publications](#publications)
 
 ---
 &nbsp;
@@ -375,7 +332,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
-[About Me](#about-me) - [News](#news) - [Research](#research) - [Education](#education) - [Teaching](#teaching) - [Supervision](#supervision-and-advising) - Service - [Publications](#publications)
+[About Me](#about-me) - [News](#news) - [Research](#research) - [Teaching](#teaching) - [Supervision](#supervision-and-advising) - Service - [Publications](#publications)
 
 ---
 &nbsp;
@@ -433,7 +390,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
-[About Me](#about-me) - [News](#news) - [Research](#research) - [Education](#education) - [Teaching](#teaching) - [Supervision](#supervision-and-advising) - [Service](#service) - Publications
+[About Me](#about-me) - [News](#news) - [Research](#research) - [Teaching](#teaching) - [Supervision](#supervision-and-advising) - [Service](#service) - Publications
 
 ---
 &nbsp;
