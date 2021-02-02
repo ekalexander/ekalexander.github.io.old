@@ -18,8 +18,6 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 
 ---
 
-[About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
-
 ---
 
 # Research
@@ -39,8 +37,6 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 ---
 
 ---
-
-[About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
 
 ---
 
@@ -62,8 +58,6 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
-[About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
-
 ---
 
 # Publications
@@ -77,8 +71,6 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 ---
 
 ---
-
-[About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
 
 ---
 # Teaching
@@ -119,8 +111,6 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
-[About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
-
 ---
 
 # Education
@@ -133,8 +123,6 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 ---
 
 ---
-
-[About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
 
 ---
 
