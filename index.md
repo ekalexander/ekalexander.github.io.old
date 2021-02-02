@@ -1,8 +1,7 @@
----
 
 [About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
 
----
+
 
 # About Me
 
@@ -14,11 +13,6 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 - Member of the *Optimisation Group* of Monash University, Australia.
 - Member of the *MiniZinc Team*.
 
----
-
----
-
----
 
 # Research
 
@@ -34,11 +28,6 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 - Structural anlysis of constraint models to automatically infer improvements
 
----
-
----
-
----
 
 # News 
 
@@ -54,11 +43,6 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 **<2019 Sep>** Talks at [ModRef'19](https://modref.github.io/ModRef2019) and [CP'19](https://cp2019.a4cp.org/) doctoral program
 
----
-
----
-
----
 
 # Publications
 
@@ -68,11 +52,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 - [GitHub page](https://github.com/aekh)
 
----
 
----
-
----
 # Teaching
 
 ## Current
@@ -107,11 +87,6 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 * Program Design and Data Structures. *Uppsala University, Sweden*. 2014 - 2015.
 
----
-
----
-
----
 
 # Education
 
@@ -119,12 +94,6 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 - BSc + MSc in Computer Science @ Uppsala University, Sweden, 2012-2018.
 
-
----
-
----
-
----
 
 # Contact
 
