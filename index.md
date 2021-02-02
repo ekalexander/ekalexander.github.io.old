@@ -2,11 +2,15 @@
 
 ---
 
-[About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
+About Me - [News](#news) - [Research](#research) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
 
 ---
 
+## Summary
+
 I study online/dynamic combinatorial optimization from both a modelling and solving point of view.
+
+## Positions
 
 - PhD Candidate (2nd Year) at the *Department of Data Science & AI* of **Monash Univerisity**, Australia.
   - My advisors are: **Maria Garcia de la Banda** (Monash University), **Andreas Schutt** (CSIRO Data61), **Peter J. Stuckey** (Monash University), and **Guido Tack** (Monash University).
@@ -14,6 +18,54 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 - Member of the *Optimisation Group* of Monash University, Australia.
 - Member of the *MiniZinc Team*.
 
+## Contact
+
+Email     
+          
+    alexander.ek (at) monash.edu
+
+Address     
+    
+    Monash University
+    Faculty of Information Technology
+    Room 241T, Clayton campus
+    20 Exhibition Walk
+    CLAYTON VIC 3800
+    Australia
+    
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
 
 # Research
 
@@ -134,9 +186,4 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
-Email     alexander.ek (at) monash.edu
 
-Visit     Floor 6, Building H, Caulfield Campus,
-          Monash University, 900 Dandenong Rd,
-          Caulfield East, 3145 VIC
-          Australia
