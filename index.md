@@ -12,7 +12,7 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 
 ## Positions
 
-- PhD Candidate (2nd Year) at the *Department of Data Science & AI* of **Monash Univerisity**, Australia.
+- PhD Candidate (3rd Year) at the *Department of Data Science & AI* of **Monash Univerisity**, Australia.
   - My advisors are: **Maria Garcia de la Banda** (Monash University), **Andreas Schutt** (CSIRO Data61), **Peter J. Stuckey** (Monash University), and **Guido Tack** (Monash University).
 - PhD Scholarship Student at the *Analytics and Decision Sciences* Programme of **CSIRO's Data61**, Australia.
 - Member of the *Optimisation Group* of Monash University, Australia.
@@ -33,39 +33,7 @@ Address
     CLAYTON VIC 3800
     Australia
     
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
+<code>&nbsp;</code> asd
 
 # Research
 
