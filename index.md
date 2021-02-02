@@ -33,8 +33,19 @@ Address
     CLAYTON VIC 3800
     Australia
     
-<code>&nbsp;
+## Awards etc
 
+### Periodic Scholarships/Fellowships
+
+- **<2018>** Data61 Top-up Scholarship. By *CSIRO Data61*, Australia. For 3.5 years.
+- **<2018>** Co-Funded Monash Graduate Scholarship. By *Monash University*, Australia. For 3.5 years.
+- **<2018>** Faculty of IT International Postgraduate Research Scholarship. By *Monash University*, Australia. For 3.5 years.
+
+### One Time Stipends
+
+- **<2019>** Doctoral Program Financial Support. By *The Association for Constraint Programming*, France.
+- **<2014, 2015, 2016>** Johan and Hjalmar Kallenbergs Scholarship (x3). By *Johan and Hjalmar Kallenbergs Foundation*, Sweden.
+ 
 &nbsp;
 
 &nbsp;
@@ -68,36 +79,18 @@ Address
 &nbsp;
 
 &nbsp;
-</code> asd
 
-# Research
-
----
-
-[About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
-
----
-
-## Current Research Projects
-
-- Modelling and Solving Online/Dynamic Combinatorial Optimization Problems
-
-## Keyword Research Interests
-
-Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimization, Rolling Horizon/Sliding Window, Constraint Programming, Scheduling, Vehicle Routing, Planning, Automation.
-
-## Former Research Projects
-
-- Structural anlysis of constraint models to automatically infer improvements
-
+&nbsp;
 
 # News
 
 ---
 
-[About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
+[About Me](#about-me) - News - [Research](#research) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
 
 ---
+
+**<2020 Oct>** Completed PhD Progress Review Milestone
 
 **<2020 Aug>** [Virtual talk](https://youtu.be/xwYy736sEGo) at [CP'20](https://cp2020.a4cp.org/)
 
@@ -111,6 +104,100 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 **<2019 Sep>** Talks at [ModRef'19](https://modref.github.io/ModRef2019) and [CP'19](https://cp2019.a4cp.org/) doctoral program
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Research
+
+---
+
+[About Me](#about-me) - [News](#news) - Research - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
+
+---
+
+## Research Interests
+
+Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimization, Rolling Horizon/Sliding Window, Constraint Programming, Scheduling, Vehicle Routing, Planning, Automation, Artificial Intelligence, Risk analysis/management, Uncertainty, Fairness/Fair Resource Allocation. Business. Economics. Logistics. Energy. Manufacturing.
+
+## Current Research Projects
+
+- (2018-) PhD Thesis Project: Modelling and Solving Online/Dynamic Combinatorial Optimization Problems
+  - (2018-) Problem-Independent Online Combinatorial Optimization
+    - 2 papers published
+  - (2020-) Fairness on Online Combinatorial Optimizaiton
+
+## Former Research Projects
+
+- Structural anlysis of constraint models to automatically infer improvements
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 # Publications
 
