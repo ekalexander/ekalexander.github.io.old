@@ -6,6 +6,10 @@ About Me - [News](#news) - [Research](#research) - [Publications](#publications)
 
 ---
 
+&nbsp;
+
+&nbsp;
+
 ## Summary
 
 I study online/dynamic combinatorial optimization from both a modelling and solving point of view.
@@ -28,6 +32,9 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
               20 Exhibition Walk
               CLAYTON VIC 3800
               Australia
+              
+- [Research Gate](https://www.researchgate.net/profile/Alexander-Ek)
+- Twitter: [@EkAlexanderJ](https://twitter.com/EkAlexanderJ)
     
 ## Awards etc
 
@@ -86,6 +93,10 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 
 ---
 
+&nbsp;
+
+&nbsp;
+
 **<2020 Oct>** Completed PhD Progress Review Milestone
 
 **<2020 Aug>** [Virtual talk](https://youtu.be/xwYy736sEGo) at [CP'20](https://cp2020.a4cp.org/)
@@ -143,6 +154,10 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 [About Me](#about-me) - [News](#news) - Research - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
 
 ---
+
+&nbsp;
+
+&nbsp;
 
 ## Research Interests
 
@@ -203,6 +218,10 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
+&nbsp;
+
+&nbsp;
+
 - **PhD** in Computer Science. At *Monash University*, Australia, **2018-2022 (ongoing)**.
 
 - **BSc** + **MSc** in Computer Science. At *Uppsala University*, Sweden, **2012-2018**.
@@ -250,6 +269,10 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 [About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
 
 ---
+
+&nbsp;
+
+&nbsp;
 
 ## Monash University (2019-)
 
@@ -316,10 +339,19 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 # Supervision and Advising
 
+---
+
+[About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
+
+---
+
+&nbsp;
+
+&nbsp;
+
 - Co-Supervisor for Summer Student Research Project. At *Optimisation Group, Monash University*, Australia. **2020-2021**
 
 - Mentor for the Bachelors’ Programme in Computer Science. At *Uppsala University*, Sweden. **2013**
-
 
 &nbsp;
 
@@ -358,6 +390,16 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 &nbsp;
 
 # Service
+
+---
+
+[About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
+
+---
+
+&nbsp;
+
+&nbsp;
 
 ## To The University
 
@@ -416,6 +458,10 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
+&nbsp;
+
+&nbsp;
+
 - [Google Scholar page](https://scholar.google.com/citations?user=qCgM_1wAAAAJ&hl).
 
 - [GitHub page](https://github.com/aekh)
@@ -424,7 +470,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 - [C2] Alexander Ek, Maria Garcia de la Banda, Andreas Schutt, Peter J. Stuckey, Guido Tack. **Aggregation and Garbage Collection for Online Optimization.** *Proceedings of the Twenty-sixth International Conference on Principles and Practice of Constraint Programming (CP’20),* **2020.**
   - Topics: [Combinatorial Optimization] [Modeling Langauges] [Model Transformations]
-  - Links: [[BibTex]] [[Data/Code]] [[Paper]] [[Talk]]
+  - Links: [[BibTex]] [[Data/Code](https://github.com/aekh/CP2020-Models)] [[Springer](https://rdcu.be/b6XYu)] [[Preprint](https://www.researchgate.net/publication/344136812_Aggregation_and_Garbage_Collection_for_Online_Optimization)] [[Talk]((https://youtu.be/xwYy736sEGo))]
   - Related: [C1]
 
 - [C1] Alexander Ek, Maria Garcia de la Banda, Andreas Schutt, Peter J. Stuckey, Guido Tack. **Modelling and Solving Online Optimisation Problems.** *Proceedings of the Thirty-fourth AAAI Conference on Artificial Intelligence (AAAI’20),* **2020.**
@@ -436,17 +482,18 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 - [W3] Alexander Ek, Maria Garcia de la Banda, Andreas Schutt, Peter J. Stuckey, Guido Tack. **Aggregation and Garbage Collection for Online Optimization.** *Doctoral Programme of the Twenty-sixth International Conference on Principles and Practice of Constraint Programming,* **2020.**
   - Topics: [Combinatorial Optimization] [Modeling Langauges] [Model Transformations]
-  - Full version: [C2]
+  - Links: [[Paper]]
+  - Extended version: [C2]
 
 - [W2] Alexander Ek, Maria Garcia de la Banda, Andreas Schutt, Peter J. Stuckey, Guido Tack. **Modelling and Solving Online Optimisation Problems.** *Proceedings of the Eighteenth Workshop on Constraint Modelling and Reformulation (ModRef’19),* **2019.**
   - Topics: [Combinatorial Optimization] [Modeling Langauges] [Model Transformations]
-  - Links: [[Paper]]
-  - Full version: [C1]
+  - Links: [[Paper](https://modref.github.io/papers/ModRef2019_Modelling%20and%20Solving%20Online%20Optimisation%20Problems.pdf)]
+  - Extended version: [C1]
 
 - [W1] Alexander Ek, Maria Garcia de la Banda, Andreas Schutt, Peter J. Stuckey, Guido Tack. **Modelling and Solving Online Optimisation Problems.** *Doctoral Program of the Twenty-fifth International Conference on Principles and Practice of Constraint Programming,* **2019.**
   - Topics: [Combinatorial Optimization] [Modeling Langauges] [Model Transformations]
-  - Links: [[Paper]]
-  - Full version: [C1]
+  - Links: [[Paper](https://cp2019.a4cp.org/accepted_dp/10-alexander_ek.pdf)]
+  - Extended version: [C1]
 
 
 ## Theses [T]
