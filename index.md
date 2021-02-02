@@ -2,12 +2,9 @@
 
 ---
 
-About Me - [News](#news) - [Research](#research) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
+About Me - [News](#news) - [Research](#research) - [Education](#education) - [Teaching](#teaching) - [Supervision](#supervision-and-advising) - [Service](#service) - [Publications](#publications)
 
 ---
-
-&nbsp;
-
 &nbsp;
 
 ## Summary
@@ -89,12 +86,9 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 
 ---
 
-[About Me](#about-me) - News - [Research](#research) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
+[About Me](#about-me) - News - [Research](#research) - [Education](#education) - [Teaching](#teaching) - [Supervision](#supervision-and-advising) - [Service](#service) - [Publications](#publications)
 
 ---
-
-&nbsp;
-
 &nbsp;
 
 **<2020 Oct>** Completed PhD Progress Review Milestone
@@ -151,12 +145,9 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 
 ---
 
-[About Me](#about-me) - [News](#news) - Research - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
+[About Me](#about-me) - [News](#news) - Research - [Education](#education) - [Teaching](#teaching) - [Supervision](#supervision-and-advising) - [Service](#service) - [Publications](#publications)
 
 ---
-
-&nbsp;
-
 &nbsp;
 
 ## Research Interests
@@ -214,12 +205,9 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
-[About Me](#about-me) - [News](#news) - [Research](#research) - Education - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
+[About Me](#about-me) - [News](#news) - [Research](#research) - Education - [Teaching](#teaching) - [Supervision](#supervision-and-advising) - [Service](#service) - [Publications](#publications)
 
 ---
-
-&nbsp;
-
 &nbsp;
 
 - **PhD** in Computer Science. At *Monash University*, Australia, **2018-2022 (ongoing)**.
@@ -266,12 +254,9 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
-[About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
+[About Me](#about-me) - [News](#news) - [Research](#research) - [Education](#education) - Teaching - [Supervision](#supervision-and-advising) - [Service](#service) - [Publications](#publications)
 
 ---
-
-&nbsp;
-
 &nbsp;
 
 ## Monash University (2019-)
@@ -341,12 +326,9 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
-[About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
+[About Me](#about-me) - [News](#news) - [Research](#research) - [Education](#education) - [Teaching](#teaching) - Supervision - [Service](#service) - [Publications](#publications)
 
 ---
-
-&nbsp;
-
 &nbsp;
 
 - Co-Supervisor for Summer Student Research Project. At *Optimisation Group, Monash University*, Australia. **2020-2021**
@@ -393,12 +375,9 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
-[About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
+[About Me](#about-me) - [News](#news) - [Research](#research) - [Education](#education) - [Teaching](#teaching) - [Supervision](#supervision-and-advising) - Service - [Publications](#publications)
 
 ---
-
-&nbsp;
-
 &nbsp;
 
 ## To The University
@@ -454,12 +433,9 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
-[About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
+[About Me](#about-me) - [News](#news) - [Research](#research) - [Education](#education) - [Teaching](#teaching) - [Supervision](#supervision-and-advising) - [Service](#service) - Publications
 
 ---
-
-&nbsp;
-
 &nbsp;
 
 - [Google Scholar page](https://scholar.google.com/citations?user=qCgM_1wAAAAJ&hl).
