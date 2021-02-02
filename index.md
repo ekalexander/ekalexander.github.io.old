@@ -16,42 +16,6 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 
 ---
 
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
 ---
 
 [About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
@@ -73,42 +37,6 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 - Structural anlysis of constraint models to automatically infer improvements
 
 ---
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
 
 ---
 
@@ -132,42 +60,6 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
 ---
 
 [About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
@@ -183,42 +75,6 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 - [GitHub page](https://github.com/aekh)
 
 ---
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
 
 ---
 
@@ -261,42 +117,6 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
 ---
 
 [About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
@@ -311,42 +131,6 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 
 ---
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
 
 ---
 
