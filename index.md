@@ -1,9 +1,10 @@
+# About Me
+
+---
 
 [About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
 
-
-
-# About Me
+---
 
 I study online/dynamic combinatorial optimization from both a modelling and solving point of view.
 
@@ -15,6 +16,12 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 
 
 # Research
+
+---
+
+[About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
+
+---
 
 ## Current Research Projects
 
@@ -29,7 +36,13 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 - Structural anlysis of constraint models to automatically infer improvements
 
 
-# News 
+# News
+
+---
+
+[About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
+
+---
 
 **<2020 Aug>** [Virtual talk](https://youtu.be/xwYy736sEGo) at [CP'20](https://cp2020.a4cp.org/)
 
@@ -46,6 +59,12 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 # Publications
 
+---
+
+[About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
+
+---
+
 - [Publication List](publications.html)
 
 - [Google Scholar page](https://scholar.google.com/citations?user=qCgM_1wAAAAJ&hl).
@@ -54,6 +73,12 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 
 # Teaching
+
+---
+
+[About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
+
+---
 
 ## Current
 
@@ -90,12 +115,24 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 # Education
 
+---
+
+[About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
+
+---
+
 - PhD in Computer Science @ Monash University, Australia, 2018-2022 (ongoing).
 
 - BSc + MSc in Computer Science @ Uppsala University, Sweden, 2012-2018.
 
 
 # Contact
+
+---
+
+[About Me](#about-me) - [Research](#research) - [News](#news) - [Publications](#publications) - [Teaching](#teaching) - [Education](#education) - [Contact](#contact)
+
+---
 
 Email     alexander.ek (at) monash.edu
 
