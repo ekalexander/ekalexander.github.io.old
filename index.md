@@ -2,7 +2,7 @@
 
 ---
 
-About Me - [News](#news) - [Research](#research) - [Teaching](#teaching) - [Supervision](#supervision-and-advising) - [Service](#service) - [Publications](#publications)
+About Me. [News](#news). [Research](#research). [Teaching](#teaching). [Supervision](#supervision-and-advising). [Service](#service). [Publications](#publications).
 
 ---
 &nbsp;
@@ -92,7 +92,7 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 
 ---
 
-[About Me](#about-me) - News - [Research](#research) - [Teaching](#teaching) - [Supervision](#supervision-and-advising) - [Service](#service) - [Publications](#publications)
+[About Me](#about-me). News. [Research](#research). [Teaching](#teaching). [Supervision](#supervision-and-advising). [Service](#service). [Publications](#publications).
 
 ---
 &nbsp;
@@ -151,7 +151,7 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 
 ---
 
-[About Me](#about-me) - [News](#news) - Research - [Teaching](#teaching) - [Supervision](#supervision-and-advising) - [Service](#service) - [Publications](#publications)
+[About Me](#about-me). [News](#news). Research. [Teaching](#teaching). [Supervision](#supervision-and-advising). [Service](#service). [Publications](#publications).
 
 ---
 &nbsp;
@@ -211,7 +211,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
-[About Me](#about-me) - [News](#news) - [Research](#research) - Teaching - [Supervision](#supervision-and-advising) - [Service](#service) - [Publications](#publications)
+[About Me](#about-me). [News](#news). [Research](#research). Teaching. [Supervision](#supervision-and-advising). [Service](#service). [Publications](#publications).
 
 ---
 &nbsp;
@@ -283,7 +283,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
-[About Me](#about-me) - [News](#news) - [Research](#research) - [Teaching](#teaching) - Supervision - [Service](#service) - [Publications](#publications)
+[About Me](#about-me). [News](#news). [Research](#research). [Teaching](#teaching). Supervision. [Service](#service). [Publications](#publications).
 
 ---
 &nbsp;
@@ -332,7 +332,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
-[About Me](#about-me) - [News](#news) - [Research](#research) - [Teaching](#teaching) - [Supervision](#supervision-and-advising) - Service - [Publications](#publications)
+[About Me](#about-me). [News](#news). [Research](#research). [Teaching](#teaching). [Supervision](#supervision-and-advising). Service. [Publications](#publications).
 
 ---
 &nbsp;
@@ -390,7 +390,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 ---
 
-[About Me](#about-me) - [News](#news) - [Research](#research) - [Teaching](#teaching) - [Supervision](#supervision-and-advising) - [Service](#service) - Publications
+[About Me](#about-me). [News](#news). [Research](#research). [Teaching](#teaching). [Supervision](#supervision-and-advising). [Service](#service). Publications.
 
 ---
 &nbsp;
@@ -403,7 +403,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 - [C2] Alexander Ek, Maria Garcia de la Banda, Andreas Schutt, Peter J. Stuckey, Guido Tack. **Aggregation and Garbage Collection for Online Optimization.** *Proceedings of the Twenty-sixth International Conference on Principles and Practice of Constraint Programming (CP’20),* **2020.**
   - Topics: [Combinatorial Optimization] [Modeling Langauges] [Model Transformations]
-  - Links: [[BibTex]] [[Data/Code](https://github.com/aekh/CP2020-Models)] [[Springer](https://rdcu.be/b6XYu)] [[Preprint](https://www.researchgate.net/publication/344136812_Aggregation_and_Garbage_Collection_for_Online_Optimization)] [[Talk]((https://youtu.be/xwYy736sEGo))]
+  - Links: [[BibTex]] [[Data/Code](https://github.com/aekh/CP2020-Models)] [[Paper](https://rdcu.be/b6XYu)] [[PrePrint](https://www.researchgate.net/publication/344136812_Aggregation_and_Garbage_Collection_for_Online_Optimization)] [[Talk]((https://youtu.be/xwYy736sEGo))]
   - Related: [C1]
 
 - [C1] Alexander Ek, Maria Garcia de la Banda, Andreas Schutt, Peter J. Stuckey, Guido Tack. **Modelling and Solving Online Optimisation Problems.** *Proceedings of the Thirty-fourth AAAI Conference on Artificial Intelligence (AAAI’20),* **2020.**
