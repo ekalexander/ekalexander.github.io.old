@@ -5,7 +5,6 @@
 About Me. [News](#news). [Research](#research). [Teaching](#teaching). [Supervision](#supervision-and-advising). [Service](#service). [Publications](#publications).
 
 ---
-&nbsp;
 
 ## Summary
 
@@ -78,16 +77,6 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 # News
 
 ---
@@ -95,31 +84,22 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 [About Me](#about-me). News. [Research](#research). [Teaching](#teaching). [Supervision](#supervision-and-advising). [Service](#service). [Publications](#publications).
 
 ---
-&nbsp;
 
-**<2020 Oct>** Completed PhD Progress Review Milestone
+**<2020 Oct>** \*\*\* Completed PhD Progress Review Milestone
 
-**<2020 Aug>** [Virtual talk](https://youtu.be/xwYy736sEGo) at [CP'20](https://cp2020.a4cp.org/)
+**<2020 Aug>** \*\*\* [Virtual talk](https://youtu.be/xwYy736sEGo) at [CP'20](https://cp2020.a4cp.org/)
 
-**<2020 Jul>** Paper "Aggregation and Garbage Collection for Online Optimization" accepted at [CP'20](https://cp2020.a4cp.org/)
+**<2020 Jul>** \*\*\* Paper "Aggregation and Garbage Collection for Online Optimization" accepted at [CP'20](https://cp2020.a4cp.org/)
 
-**<2020 Feb>** Talk at [AAAI'20](https://aaai.org/Conferences/AAAI-20/)
+**<2020 Feb>** \*\*\* Talk at [AAAI'20](https://aaai.org/Conferences/AAAI-20/), "Modelling and Solving Online Optimisation Problems"
 
-**<2019 Nov>** Completed PhD Confirmation Milestone
+**<2019 Nov>** \*\*\* Completed PhD Confirmation Milestone
 
-**<2019 Nov>** Paper "Modelling and Solving Online Optimisation Problems" accepted at [AAAI'20](https://aaai.org/Conferences/AAAI-20/)
+**<2019 Nov>** \*\*\* Paper "Modelling and Solving Online Optimisation Problems" accepted at [AAAI'20](https://aaai.org/Conferences/AAAI-20/)
 
-**<2019 Sep>** Talks at [ModRef'19](https://modref.github.io/ModRef2019) and [CP'19](https://cp2019.a4cp.org/) doctoral program
+**<2019 Sep>** \*\*\* Talks at [ModRef'19](https://modref.github.io/ModRef2019) and [CP'19](https://cp2019.a4cp.org/) doctoral program
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+**<2018 Sep>** \*\*\* Commenced PhD Programme at Monash University and Data61 CSIRO in Australia
 
 &nbsp;
 
@@ -154,7 +134,6 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 [About Me](#about-me). [News](#news). Research. [Teaching](#teaching). [Supervision](#supervision-and-advising). [Service](#service). [Publications](#publications).
 
 ---
-&nbsp;
 
 ## Research Interests
 
@@ -197,16 +176,6 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 # Teaching
 
 ---
@@ -214,7 +183,6 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 [About Me](#about-me). [News](#news). [Research](#research). Teaching. [Supervision](#supervision-and-advising). [Service](#service). [Publications](#publications).
 
 ---
-&nbsp;
 
 ## Monash University (2019-)
 
@@ -269,16 +237,6 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 # Supervision and Advising
 
 ---
@@ -286,21 +244,10 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 [About Me](#about-me). [News](#news). [Research](#research). [Teaching](#teaching). Supervision. [Service](#service). [Publications](#publications).
 
 ---
-&nbsp;
 
 - Co-Supervisor for Summer Student Research Project. At *Optimisation Group, Monash University*, Australia. **2020-2021**
 
 - Mentor for the Bachelors’ Programme in Computer Science. At *Uppsala University*, Sweden. **2013**
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
@@ -335,7 +282,6 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 [About Me](#about-me). [News](#news). [Research](#research). [Teaching](#teaching). [Supervision](#supervision-and-advising). Service. [Publications](#publications).
 
 ---
-&nbsp;
 
 ## To The University
 
@@ -348,17 +294,6 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 #### Journal Reviewier
 
 — Journal of Artificial Intelligence Research (JAIR). 2020 (2x).
-
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
@@ -393,7 +328,6 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 [About Me](#about-me). [News](#news). [Research](#research). [Teaching](#teaching). [Supervision](#supervision-and-advising). [Service](#service). Publications.
 
 ---
-&nbsp;
 
 - [Google Scholar page](https://scholar.google.com/citations?user=qCgM_1wAAAAJ&hl).
 
@@ -411,7 +345,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
   - Links: [[BibTex]] [[Paper](https://aaai.org/ojs/index.php/AAAI/article/view/5506)]
   - Extends: [W1] [W2]
 
-## In Workshops, Symposia, and of Similar Status [W]
+## In Workshops, Symposia, and Similar [W]
 
 - [W3] Alexander Ek, Maria Garcia de la Banda, Andreas Schutt, Peter J. Stuckey, Guido Tack. **Aggregation and Garbage Collection for Online Optimization.** *Doctoral Programme of the Twenty-sixth International Conference on Principles and Practice of Constraint Programming,* **2020.**
   - Topics: [Combinatorial Optimization] [Modeling Langauges] [Model Transformations]
