@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 [<- Back](index.html)
 
 # 2020
