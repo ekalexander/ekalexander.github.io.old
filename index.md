@@ -52,7 +52,7 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a id=news></a>
 <br><br>
 
@@ -78,7 +78,7 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a id=research></a>
 <br><br>
 
@@ -103,7 +103,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a id=teaching></a>
 <br><br>
 
@@ -151,7 +151,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a id=service></a>
 <br><br>
 
@@ -173,7 +173,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a id=publications></a>
 <br><br>
 
