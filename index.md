@@ -1,8 +1,7 @@
 <a id="about-me"></a>
-&nbsp;
+<br><br>
 
 # About Me.
-
 
 ## Summary
 
@@ -49,8 +48,13 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 - **<2019>** Doctoral Program Financial Support. By *The Association for Constraint Programming*, France.
 - **<2014, 2015, 2016>** Johan and Hjalmar Kallenbergs Scholarship (x3). By *Johan and Hjalmar Kallenbergs Foundation*, Sweden.
 
-<a id=news style="margin-top:10cm;margin-bottom:10cm;"></a>
-&nbsp;
+
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<a id=news></a>
+<br><br>
 
 # News.
 
@@ -70,10 +74,13 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 
 **<2018 Sep>** \*\*\* Commenced PhD Programme at Monash University and Data61 CSIRO in Australia
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a id=research></a>
-&nbsp;
+<br><br>
 
 # Research.
 
@@ -92,10 +99,13 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 - Structural anlysis of constraint models to automatically infer improvements
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a id=teaching></a>
-&nbsp;
+<br><br>
 
 # Teaching.
 
@@ -137,10 +147,13 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 - Mentor for the Bachelors’ Programme in Computer Science. At *Uppsala University*, Sweden. **2013**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a id=service></a>
-&nbsp;
+<br><br>
 
 # Service.
 
@@ -156,10 +169,13 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 — Journal of Artificial Intelligence Research (JAIR). 2020 (2x).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a id=publications></a>
-&nbsp;
+<br><br>
 
 # Publications.
 
