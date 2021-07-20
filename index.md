@@ -1,4 +1,4 @@
-<a id=about-me></a>
+<a id="about-me"></a>
 &nbsp;
 
 # About Me.
@@ -49,9 +49,7 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 - **<2019>** Doctoral Program Financial Support. By *The Association for Constraint Programming*, France.
 - **<2014, 2015, 2016>** Johan and Hjalmar Kallenbergs Scholarship (x3). By *Johan and Hjalmar Kallenbergs Foundation*, Sweden.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a id=news></a>
+<a id=news style="margin-top:4cm;"></a>
 &nbsp;
 
 # News.
@@ -130,7 +128,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a id=supervision-and-advising></a>
+<a id="supervision-and-advising"></a>
 &nbsp;
 
 # Supervision and Advising.
