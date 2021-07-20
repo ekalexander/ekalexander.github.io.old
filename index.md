@@ -136,10 +136,13 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 - Program Design and Data Structures (1DL201). *Uppsala University*, Sweden. **2015 Sem 1, 2014 Sem 2**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a id="supervision-and-advising"></a>
-&nbsp;
+<br><br>
 
 # Supervision and Advising.
 
