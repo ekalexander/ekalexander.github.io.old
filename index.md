@@ -1,10 +1,8 @@
-# About Me
+<a id=about-me></a>
+&nbsp;
 
----
+# About Me.
 
-About Me. [News](#news). [Research](#research). [Teaching](#teaching). [Supervision](#supervision-and-advising). [Service](#service). [Publications](#publications).
-
----
 
 ## Summary
 
@@ -50,40 +48,13 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 
 - **<2019>** Doctoral Program Financial Support. By *The Association for Constraint Programming*, France.
 - **<2014, 2015, 2016>** Johan and Hjalmar Kallenbergs Scholarship (x3). By *Johan and Hjalmar Kallenbergs Foundation*, Sweden.
- 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a id=news></a>
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-# News
-
----
-
-[About Me](#about-me). News. [Research](#research). [Teaching](#teaching). [Supervision](#supervision-and-advising). [Service](#service). [Publications](#publications).
-
----
+# News.
 
 **<2020 Oct>** \*\*\* Completed PhD Progress Review Milestone
 
@@ -101,39 +72,12 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 
 **<2018 Sep>** \*\*\* Commenced PhD Programme at Monash University and Data61 CSIRO in Australia
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a id=research></a>
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-# Research
-
----
-
-[About Me](#about-me). [News](#news). Research. [Teaching](#teaching). [Supervision](#supervision-and-advising). [Service](#service). [Publications](#publications).
-
----
+# Research.
 
 ## Research Interests
 
@@ -150,39 +94,12 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 - Structural anlysis of constraint models to automatically infer improvements
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a id=teaching></a>
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-# Teaching
-
----
-
-[About Me](#about-me). [News](#news). [Research](#research). Teaching. [Supervision](#supervision-and-advising). [Service](#service). [Publications](#publications).
-
----
+# Teaching.
 
 ## Monash University (2019-)
 
@@ -211,77 +128,23 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 - Program Design and Data Structures (1DL201). *Uppsala University*, Sweden. **2015 Sem 1, 2014 Sem 2**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a id=supervision-and-advising></a>
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-# Supervision and Advising
-
----
-
-[About Me](#about-me). [News](#news). [Research](#research). [Teaching](#teaching). Supervision. [Service](#service). [Publications](#publications).
-
----
+# Supervision and Advising.
 
 - Co-Supervisor for Summer Student Research Project. At *Optimisation Group, Monash University*, Australia. **2020-2021**
 
 - Mentor for the Bachelors’ Programme in Computer Science. At *Uppsala University*, Sweden. **2013**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a id=service></a>
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-# Service
-
----
-
-[About Me](#about-me). [News](#news). [Research](#research). [Teaching](#teaching). [Supervision](#supervision-and-advising). Service. [Publications](#publications).
-
----
+# Service.
 
 ## To The University
 
@@ -295,39 +158,12 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 — Journal of Artificial Intelligence Research (JAIR). 2020 (2x).
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a id=publications></a>
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-# Publications
-
----
-
-[About Me](#about-me). [News](#news). [Research](#research). [Teaching](#teaching). [Supervision](#supervision-and-advising). [Service](#service). Publications.
-
----
+# Publications.
 
 - [Google Scholar page](https://scholar.google.com/citations?user=qCgM_1wAAAAJ&hl).
 
