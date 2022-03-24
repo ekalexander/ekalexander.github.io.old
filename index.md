@@ -5,7 +5,8 @@
 
 ## Summary
 
-I study online/dynamic combinatorial optimization from both a modelling and solving point of view.
+I work on online/dynamic/uncertain combinatorial optimization from both a modelling and solving point of view.
+I also work on bringing together combinatorial optimisation with fair division, social choice theory, and statistics.
 
 ## Positions
 
