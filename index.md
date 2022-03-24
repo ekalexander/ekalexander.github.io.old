@@ -13,7 +13,7 @@ I also work on bringing together combinatorial optimisation with fair division, 
 - PhD Candidate (4th Year) at the *Department of Data Science & AI* of **Monash Univerisity**, Australia.
   - My advisors are: **Maria Garcia de la Banda** (Monash University), **Andreas Schutt** (CSIRO Data61), **Peter J. Stuckey** (Monash University), and **Guido Tack** (Monash University).
 - PhD Scholarship Student at the *Analytics and Decision Sciences* Programme of **CSIRO's Data61**, Australia.
-- Research Student at *ARC Training Center in Optimisation Technologies, Integrated Methodologies, and Applications (OPTIMA)*
+- Research Student at *ARC Training Center in Optimisation Technologies, Integrated Methodologies, and Applications (OPTIMA)*, Australia.
 - Member of the *Optimisation Group* of Monash University, Australia.
 - Member of the *MiniZinc Team*.
 
@@ -41,14 +41,14 @@ I also work on bringing together combinatorial optimisation with fair division, 
 
 ### Periodic Scholarships/Fellowships
 
-- **2018** | Data61 Top-up Scholarship. By *CSIRO Data61*, Australia. For 3.5 years.
-- **2018** | Co-Funded Monash Graduate Scholarship. By *Monash University*, Australia. For 3.5 years.
-- **2018** | Faculty of IT International Postgraduate Research Scholarship. By *Monash University*, Australia. For 3.5 years.
+**2018** | Data61 Top-up Scholarship. By *CSIRO Data61*, Australia. For 3.5 years.
+**2018** | Co-Funded Monash Graduate Scholarship. By *Monash University*, Australia. For 3.5 years.
+**2018** | Faculty of IT International Postgraduate Research Scholarship. By *Monash University*, Australia. For 3.5 years.
 
 ### One Time Stipends
 
-- **2019** | Doctoral Program Financial Support. By *The Association for Constraint Programming*, France.
-- **2014, 2015, 2016** | Johan and Hjalmar Kallenbergs Scholarship (x3). By *Johan and Hjalmar Kallenbergs Foundation*, Sweden.
+**2019** | Doctoral Program Financial Support. By *The Association for Constraint Programming*, France.
+**2014, 2015, 2016** | Johan and Hjalmar Kallenbergs Scholarship (x3). By *Johan and Hjalmar Kallenbergs Foundation*, Sweden.
 
 
 
@@ -60,23 +60,23 @@ I also work on bringing together combinatorial optimisation with fair division, 
 
 # News.
 
-**2022 Feb** | [Virtual talk](https://youtu.be/lRwFYEfHRYI) for the OPTIMA seminar series titled "High-Level Modelling and Solving for Online and Real-Time Combinatorial Optimisation".
+**2022<br>Feb** | [Virtual talk](https://youtu.be/lRwFYEfHRYI) for the OPTIMA seminar series titled "High-Level Modelling and Solving for Online and Real-Time Combinatorial Optimisation".
 
-**2021 Nov** | Completed PhD Final Review Milestone
+**2021<br>Nov** | Completed PhD Final Review Milestone
 
-**2020 Oct** | Completed PhD Progress Review Milestone
+**2020<br>Oct** | Completed PhD Progress Review Milestone
 
-**2020 Aug** | [Virtual talk](https://youtu.be/xwYy736sEGo) at [CP'20](https://cp2020.a4cp.org/) titled "Aggregation and Garbage Collection for Online Optimization".
+**2020<br>Aug** | [Virtual talk](https://youtu.be/xwYy736sEGo) at [CP'20](https://cp2020.a4cp.org/) titled "Aggregation and Garbage Collection for Online Optimization".
 
-**2020 Jul** | Paper "Aggregation and Garbage Collection for Online Optimization" accepted at [CP'20](https://cp2020.a4cp.org/)
+**2020<br>Jul** | Paper "Aggregation and Garbage Collection for Online Optimization" accepted at [CP'20](https://cp2020.a4cp.org/)
 
-**2020 Feb** | Talk at [AAAI'20](https://aaai.org/Conferences/AAAI-20/), "Modelling and Solving Online Optimisation Problems"
+**2020<br>Feb** | Talk at [AAAI'20](https://aaai.org/Conferences/AAAI-20/), "Modelling and Solving Online Optimisation Problems"
 
-**2019 Nov** | Completed PhD Confirmation Milestone
+**2019<br>Nov** | Completed PhD Confirmation Milestone
 
-**2019 Nov** | Paper "Modelling and Solving Online Optimisation Problems" accepted at [AAAI'20](https://aaai.org/Conferences/AAAI-20/)
+**2019<br>Nov** | Paper "Modelling and Solving Online Optimisation Problems" accepted at [AAAI'20](https://aaai.org/Conferences/AAAI-20/)
 
-**2019 Sep** | Talks at [ModRef'19](https://modref.github.io/ModRef2019) and [CP'19](https://cp2019.a4cp.org/) doctoral program
+**2019<br>Sep** | Talks at [ModRef'19](https://modref.github.io/ModRef2019) and [CP'19](https://cp2019.a4cp.org/) doctoral program
 
 <!-- **2018 Sep** | Commenced PhD Programme at Monash University and Data61 CSIRO in Australia
  -->
