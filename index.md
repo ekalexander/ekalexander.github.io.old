@@ -9,15 +9,16 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 
 ## Positions
 
-- PhD Candidate (3rd Year) at the *Department of Data Science & AI* of **Monash Univerisity**, Australia.
+- PhD Candidate (4th Year) at the *Department of Data Science & AI* of **Monash Univerisity**, Australia.
   - My advisors are: **Maria Garcia de la Banda** (Monash University), **Andreas Schutt** (CSIRO Data61), **Peter J. Stuckey** (Monash University), and **Guido Tack** (Monash University).
 - PhD Scholarship Student at the *Analytics and Decision Sciences* Programme of **CSIRO's Data61**, Australia.
+- Research Student at *ARC Training Center in Optimisation Technologies, Integrated Methodologies, and Applications (OPTIMA)*
 - Member of the *Optimisation Group* of Monash University, Australia.
 - Member of the *MiniZinc Team*.
 
 ## Education
 
-- **PhD** in Computer Science. At *Monash University*, Australia, **2018-2022 (ongoing)**.
+- **PhD** in Computer Science. At *Monash University*, Australia, **2018-2022 (expected graduation mid-2022)**.
 
 - **BSc** + **MSc** in Computer Science. At *Uppsala University*, Sweden, **2012-2018**.
 
@@ -39,14 +40,14 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 
 ### Periodic Scholarships/Fellowships
 
-- **<2018>** Data61 Top-up Scholarship. By *CSIRO Data61*, Australia. For 3.5 years.
-- **<2018>** Co-Funded Monash Graduate Scholarship. By *Monash University*, Australia. For 3.5 years.
-- **<2018>** Faculty of IT International Postgraduate Research Scholarship. By *Monash University*, Australia. For 3.5 years.
+- **2018** | Data61 Top-up Scholarship. By *CSIRO Data61*, Australia. For 3.5 years.
+- **2018** | Co-Funded Monash Graduate Scholarship. By *Monash University*, Australia. For 3.5 years.
+- **2018** | Faculty of IT International Postgraduate Research Scholarship. By *Monash University*, Australia. For 3.5 years.
 
 ### One Time Stipends
 
-- **<2019>** Doctoral Program Financial Support. By *The Association for Constraint Programming*, France.
-- **<2014, 2015, 2016>** Johan and Hjalmar Kallenbergs Scholarship (x3). By *Johan and Hjalmar Kallenbergs Foundation*, Sweden.
+- **2019** | Doctoral Program Financial Support. By *The Association for Constraint Programming*, France.
+- **2014, 2015, 2016** | Johan and Hjalmar Kallenbergs Scholarship (x3). By *Johan and Hjalmar Kallenbergs Foundation*, Sweden.
 
 
 
@@ -58,22 +59,26 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 
 # News.
 
-**<2020 Oct>** \*\*\* Completed PhD Progress Review Milestone
+**2022 Feb** | [Virtual talk](https://youtu.be/lRwFYEfHRYI) for the OPTIMA seminar series titled "High-Level Modelling and Solving for Online and Real-Time Combinatorial Optimisation".
 
-**<2020 Aug>** \*\*\* [Virtual talk](https://youtu.be/xwYy736sEGo) at [CP'20](https://cp2020.a4cp.org/)
+**2021 Nov** | Completed PhD Final Review Milestone
 
-**<2020 Jul>** \*\*\* Paper "Aggregation and Garbage Collection for Online Optimization" accepted at [CP'20](https://cp2020.a4cp.org/)
+**2020 Oct** | Completed PhD Progress Review Milestone
 
-**<2020 Feb>** \*\*\* Talk at [AAAI'20](https://aaai.org/Conferences/AAAI-20/), "Modelling and Solving Online Optimisation Problems"
+**2020 Aug** | [Virtual talk](https://youtu.be/xwYy736sEGo) at [CP'20](https://cp2020.a4cp.org/) titled "Aggregation and Garbage Collection for Online Optimization".
 
-**<2019 Nov>** \*\*\* Completed PhD Confirmation Milestone
+**2020 Jul** | Paper "Aggregation and Garbage Collection for Online Optimization" accepted at [CP'20](https://cp2020.a4cp.org/)
 
-**<2019 Nov>** \*\*\* Paper "Modelling and Solving Online Optimisation Problems" accepted at [AAAI'20](https://aaai.org/Conferences/AAAI-20/)
+**2020 Feb** | Talk at [AAAI'20](https://aaai.org/Conferences/AAAI-20/), "Modelling and Solving Online Optimisation Problems"
 
-**<2019 Sep>** \*\*\* Talks at [ModRef'19](https://modref.github.io/ModRef2019) and [CP'19](https://cp2019.a4cp.org/) doctoral program
+**2019 Nov** | Completed PhD Confirmation Milestone
 
-**<2018 Sep>** \*\*\* Commenced PhD Programme at Monash University and Data61 CSIRO in Australia
+**2019 Nov** | Paper "Modelling and Solving Online Optimisation Problems" accepted at [AAAI'20](https://aaai.org/Conferences/AAAI-20/)
 
+**2019 Sep** | Talks at [ModRef'19](https://modref.github.io/ModRef2019) and [CP'19](https://cp2019.a4cp.org/) doctoral program
+
+<!-- **2018 Sep** | Commenced PhD Programme at Monash University and Data61 CSIRO in Australia
+ -->
 
 
 
@@ -86,9 +91,9 @@ I study online/dynamic combinatorial optimization from both a modelling and solv
 
 ## Research Interests
 
-Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimization, Rolling Horizon/Sliding Window, Constraint Programming, Scheduling, Vehicle Routing, Planning, Automation, Artificial Intelligence, Risk analysis/management, Uncertainty, Fairness/Fair Resource Allocation. Business. Economics. Logistics. Energy. Manufacturing.
+Combinatorial/Discrete Optimization, Combinatorial Optimisation and Statistics, Constraint-Based Modelling, Online Optimization, Rolling Horizon/Sliding Window, Constraint Programming, Scheduling, Vehicle Routing, Planning, Automation, Artificial Intelligence, Risk analysis/management, Uncertainty, Fairness/Fair Resource Allocation, Business, Economics, Logistics, Energy, Manufacturing, Social Choice Theory.
 
-## Current Research Projects
+<!-- ## Current Research Projects
 
 - (2018-) PhD Thesis Project: Modelling and Solving Online/Dynamic Combinatorial Optimization Problems
   - (2018-) Problem-Independent Online Combinatorial Optimization
@@ -98,7 +103,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 ## Former Research Projects
 
 - Structural anlysis of constraint models to automatically infer improvements
-
+ -->
 
 
 
@@ -113,28 +118,28 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 #### Head Teaching Associate
 
-- Modelling Discrete Optimisation Problems (FIT5216). *Monash University*, Australia. **2021 Sem 1, 2020 Sem 1**.
-- Solving Discrete Optimisation Problems (FIT5220). *Monash University*, Australia. **2020 Sem 2, 2020 Term 3**.
+- Modelling Discrete Optimisation Problems (FIT5216). *Monash University*, Australia. **2021, 2020**.
+- Solving Discrete Optimisation Problems (FIT5220). *Monash University*, Australia. **2021, 2020 (x2)**.
 
 #### Teaching Associate
 
-- Introduction to Computer Science (FIT1008, FIT1054, FIT2085). *Monash University*, Australia. **2019 Sem 2**.
+- Introduction to Computer Science (FIT1008, FIT1054, FIT2085). *Monash University*, Australia. **2019**.
 
 ## Uppsala University (2014-2018)
 
 #### Teaching Associate
 
-- Operating Systems and Process-Oriented Programming (1DT096). *Uppsala University*, Sweden. **2018 Sem 1**.
+- Operating Systems and Process-Oriented Programming (1DT096). *Uppsala University*, Sweden. **2018**.
 
-- Operating Systems (1DT044). *Uppsala University*, Sweden. **2018 Sem 1**.
+- Operating Systems (1DT044). *Uppsala University*, Sweden. **2018**.
 
-- Algorithms and Data Structures II (1DL231). *Uppsala University*, Sweden. **2017 Sem 2**.
+- Algorithms and Data Structures II (1DL231). *Uppsala University*, Sweden. **2017**.
 
-- Software Testing (1DL610). *Uppsala University*, Sweden. **2017 Sem 2**.
+- Software Testing (1DL610). *Uppsala University*, Sweden. **2017**.
 
 #### Teaching Assistant
 
-- Program Design and Data Structures (1DL201). *Uppsala University*, Sweden. **2015 Sem 1, 2014 Sem 2**
+- Program Design and Data Structures (1DL201). *Uppsala University*, Sweden. **2015, 2014**
 
 
 
@@ -148,7 +153,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 - Co-Supervisor for Summer Student Research Project. At *Optimisation Group, Monash University*, Australia. **2020-2021**
 
-- Mentor for the Bachelors’ Programme in Computer Science. At *Uppsala University*, Sweden. **2013**
+- Student Mentor for the Bachelors’ Programme in Computer Science. At *Uppsala University*, Sweden. **2013**
 
 
 
@@ -170,7 +175,7 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 #### Journal Reviewier
 
-— Journal of Artificial Intelligence Research (JAIR). 2020 (2x).
+— Journal of Artificial Intelligence Research (JAIR). **2020 (x2)**.
 
 
 
@@ -184,7 +189,9 @@ Combinatorial/Discrete Optimization, Constraint-Based Modelling, Online Optimiza
 
 - [Google Scholar page](https://scholar.google.com/citations?user=qCgM_1wAAAAJ&hl).
 
-- [GitHub page](https://github.com/aekh)
+- [Semantic Scholar page](https://www.semanticscholar.org/author/Alexander-Ek/143875013).
+
+- [GitHub page](https://github.com/aekh).
 
 ## In Refereed Conference Proceedings [C]
 
