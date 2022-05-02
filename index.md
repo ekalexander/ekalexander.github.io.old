@@ -37,18 +37,15 @@ I also work on bringing together combinatorial optimisation with fair division, 
 - [Research Gate](https://www.researchgate.net/profile/Alexander-Ek)
 - Twitter: [@EkAlexanderJ](https://twitter.com/EkAlexanderJ)
     
-## Awards etc
+## Awards, Scholarships, and Fellowships
 
-### Periodic Scholarships/Fellowships
-
-**2018** | Data61 Top-up Scholarship. By *CSIRO Data61*, Australia. For 3.5 years.
-**2018** | Co-Funded Monash Graduate Scholarship. By *Monash University*, Australia. For 3.5 years.
-**2018** | Faculty of IT International Postgraduate Research Scholarship. By *Monash University*, Australia. For 3.5 years.
-
-### One Time Stipends
-
+**2022** | Graduate Research Completion Award. By *Monash University*, Australia.
+**2022** | Monash Departmental Scholarship. By *Department of Data Science & AI, Monash University*, Australia.
+**2018-2022** | Data61 Top-up Scholarship ($10,000 AUD/yr). By *CSIRO Data61*, Australia.
+**2018-2022** | Co-Funded Monash Graduate Scholarship ($30,000 AUD/yr). By *Monash University*, Australia.
+**2018-2022** | Faculty of IT International Postgraduate Research Scholarship. By *Monash University*, Australia.
 **2019** | Doctoral Program Financial Support. By *The Association for Constraint Programming*, France.
-**2014, 2015, 2016** | Johan and Hjalmar Kallenbergs Scholarship (x3). By *Johan and Hjalmar Kallenbergs Foundation*, Sweden.
+**2014, 2015, 2016** | Johan and Hjalmar Kallenbergs Scholarship (20,000 SEK x3). By *Johan and Hjalmar Kallenbergs Foundation*, Sweden.
 
 
 
@@ -59,6 +56,8 @@ I also work on bringing together combinatorial optimisation with fair division, 
 <br><br>
 
 # News.
+
+**2022<br>Apr** | Paper "Explaining Propagation for Gini and Spread with Variable Mean" accepted at [CP'22](https://cp2022.a4cp.org/)
 
 **2022<br>Feb** | [Virtual talk](https://youtu.be/lRwFYEfHRYI) for the OPTIMA seminar series titled "High-Level Modelling and Solving for Online and Real-Time Combinatorial Optimisation".
 
@@ -92,7 +91,7 @@ I also work on bringing together combinatorial optimisation with fair division, 
 
 ## Research Interests
 
-Combinatorial/Discrete Optimization, Combinatorial Optimisation and Statistics, Constraint-Based Modelling, Online Optimization, Rolling Horizon/Sliding Window, Constraint Programming, Scheduling, Vehicle Routing, Planning, Automation, Artificial Intelligence, Risk analysis/management, Uncertainty, Fairness/Fair Resource Allocation, Business, Economics, Logistics, Energy, Manufacturing, Social Choice Theory.
+Combinatorial/Discrete Optimization, Optimisation and Statistics, Constraint-Based Modelling, Online Optimization, Rolling Horizon/Sliding Window, Constraint Programming, Operations Research, Scheduling, Vehicle Routing, Planning, Automation, Artificial Intelligence, Risk Analysis/Management, Uncertainty, Fairness/Fair Resource Allocation/Fair Division, Business, Economics, Logistics, Energy, Manufacturing, Social Choice Theory, Control Theory.
 
 <!-- ## Current Research Projects
 
